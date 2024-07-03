@@ -1,0 +1,151 @@
+﻿<Page x:Class="WPF_EstacionBombeo.Paginas.Inicio"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:WPF_EstacionBombeo.Paginas"
+      mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="650"
+      
+      Title="Inicio" Loaded="Page_Loaded" Height="442" Unloaded="Page_Unloaded_1">
+
+    <Grid Background="#FFB7B7B7" Margin="0,-47,0,0">
+
+        <Button x:Name="btnInicio" Content="Inicio" HorizontalAlignment="Left" Margin="93,43,0,0" VerticalAlignment="Top" Click="btnInicio_Click" Width="90" Height="30" FontSize="14" FontWeight="Bold" Background="White" />
+        <Button Content="Alarmas" HorizontalAlignment="Left" Margin="182,43,0,0" VerticalAlignment="Top" Click="btnAlarmas_Click" Background="White" Width="90" Height="30" FontSize="14" FontWeight="Bold"/>
+        <!--********************* boton T° Bomba**************************** -->
+
+        <Button Content="TI_EBR101" FontSize ="14" HorizontalAlignment="Left" Margin="148,106,0,0" VerticalAlignment="Top" Width="75" FontWeight="Bold" Click="TI_EBR101_Click" >
+            <Button.Template>
+                <ControlTemplate TargetType="Button">
+                    <ContentControl>
+                        <Border x:Name="myBorder"
+                        BorderBrush="Black"
+                            BorderThickness="1" Background="Aqua">
+                            <ContentPresenter
+                    VerticalAlignment="Center"
+                    HorizontalAlignment="Center"/>
+                        </Border>
+                    </ContentControl>
+                    <ControlTemplate.Triggers>
+                        <Trigger Property="IsMouseOver" Value="true">
+                            <Setter Property="Background" TargetName="myBorder" Value="PowderBlue"/>
+                        </Trigger>
+                    </ControlTemplate.Triggers>
+                </ControlTemplate>
+            </Button.Template>
+        </Button>
+
+        <!--********************* boton T° ambiente**************************** -->
+        <Button Content="TI_EBR102" FontSize ="14" HorizontalAlignment="Left" Margin="248,106,0,0" VerticalAlignment="Top" Width="75" FontWeight="Bold" Click="btnTIEBR102_Click" >
+            <Button.Template>
+                <ControlTemplate TargetType="{x:Type Button}">
+                    <ContentControl>
+                        <Border x:Name="myBorder"
+                            BorderBrush="Black"
+                            BorderThickness="1" Background="Aqua">
+                            <ContentPresenter
+                                VerticalAlignment="Center"
+                                HorizontalAlignment="Center"/>
+                        </Border>
+                    </ContentControl>
+                    <ControlTemplate.Triggers>
+                        <Trigger Property="IsMouseOver" Value="true">
+                            <Setter Property="Background" TargetName="myBorder" Value="PowderBlue"/>
+                        </Trigger>
+                    </ControlTemplate.Triggers>
+                </ControlTemplate>
+            </Button.Template>
+        </Button>
+        <!--********************* boton T° Bomba**************************** -->
+
+        <Button Content="FI_EBR101" FontSize ="14" HorizontalAlignment="Left" Margin="348,106,0,0" VerticalAlignment="Top" Width="75" FontWeight="Bold" Click="btnFIEBR101_Click" >
+            <Button.Template>
+                <ControlTemplate TargetType="{x:Type Button}">
+                    <ContentControl>
+                        <Border x:Name="myBorder"
+                            BorderBrush="Black"
+                            BorderThickness="1" Background="Aqua">
+                            <ContentPresenter
+                                VerticalAlignment="Center"
+                                HorizontalAlignment="Center"/>
+                        </Border>
+                    </ContentControl>
+                    <ControlTemplate.Triggers>
+                        <Trigger Property="IsMouseOver" Value="true">
+                            <Setter Property="Background" TargetName="myBorder" Value="PowderBlue"/>
+                        </Trigger>
+                    </ControlTemplate.Triggers>
+                </ControlTemplate>
+            </Button.Template>
+        </Button>
+        <!--********************* LBL Variable_Actual**************************** -->
+        <Label x:Name="lbl_ebr101" Content="" HorizontalAlignment="Left" HorizontalContentAlignment="Center" Margin="148,127,0,0" VerticalAlignment="Top" Width="75" RenderTransformOrigin="0.468,0.347" Height="30" Foreground="Black" FontSize="14" FontWeight="Bold"/>
+        <Label x:Name="lbl_ti_ebr102" Content="" HorizontalAlignment="Left" HorizontalContentAlignment="Center" Margin="248,127,0,0" VerticalAlignment="Top" Width="75" RenderTransformOrigin="0.468,0.347" Height="30" Foreground="Black" FontSize="14" FontWeight="Bold" Background="{x:Null}"/>
+        <Label x:Name="lbl_fi_ebr101" Content="" HorizontalAlignment="Left" HorizontalContentAlignment="Center" Margin="348,127,0,0" VerticalAlignment="Top" Width="75" RenderTransformOrigin="0.468,0.347" Height="30" Foreground="Black" FontSize="14" FontWeight="Bold"/>
+        <Label x:Name="lbl_pi_ebr101" Content="" HorizontalAlignment="Left" HorizontalContentAlignment="Center" Margin="448,127,0,0" VerticalAlignment="Top" Width="75" RenderTransformOrigin="0.468,0.347" Height="30" Foreground="Black" FontSize="14" FontWeight="Bold"/>
+        <Label x:Name="lbl_kick_ebr101" Content="" HorizontalAlignment="Left" HorizontalContentAlignment="Center" Margin="548,127,0,0" VerticalAlignment="Top" Width="90" RenderTransformOrigin="0.468,0.347" Height="30" Foreground="Black" FontSize="14" FontWeight="Bold"/>
+        <!--********************* LBL ultimos 5**************************** -->
+
+
+        <!--********************* boton Presion bomba **************************** -->
+        <Button Content="PI_EBR101" FontSize ="14" HorizontalAlignment="Left" Margin="448,106,0,0" VerticalAlignment="Top" Width="75" FontWeight="Bold" Click="btnPIEBR101_Click" >
+            <Button.Template>
+                <ControlTemplate TargetType="{x:Type Button}">
+                    <ContentControl>
+                        <Border x:Name="myBorder"
+                            BorderBrush="Black"
+                            BorderThickness="1" Background="Aqua">
+                            <ContentPresenter
+                                VerticalAlignment="Center"
+                                HorizontalAlignment="Center"/>
+                        </Border>
+                    </ContentControl>
+                    <ControlTemplate.Triggers>
+                        <Trigger Property="IsMouseOver" Value="true">
+                            <Setter Property="Background" TargetName="myBorder" Value="PowderBlue"/>
+                        </Trigger>
+                    </ControlTemplate.Triggers>
+                </ControlTemplate>
+            </Button.Template>
+        </Button>
+        <!--********************* boton Horas funcionamiento **************************** -->
+        <Button Content="KICK_EBR101" FontSize ="14" HorizontalAlignment="Left" Margin="548,106,0,0" VerticalAlignment="Top" Width="90" FontWeight="Bold" Click="btnKICKEBR101_Click" >
+            <Button.Template>
+                <ControlTemplate TargetType="{x:Type Button}">
+                    <ContentControl>
+                        <Border x:Name="myBorder"
+                            BorderBrush="Black"
+                            BorderThickness="1" Background="Aqua">
+                            <ContentPresenter
+                                VerticalAlignment="Center"
+                                HorizontalAlignment="Center"/>
+                        </Border>
+                    </ContentControl>
+                    <ControlTemplate.Triggers>
+                        <Trigger Property="IsMouseOver" Value="true">
+                            <Setter Property="Background" TargetName="myBorder" Value="PowderBlue"/>
+                        </Trigger>
+                    </ControlTemplate.Triggers>
+                </ControlTemplate>
+            </Button.Template>
+        </Button>
+        <!--********************* Boton historicos**************************** -->
+        <Button Content="Historicos" HorizontalAlignment="Left" Margin="328,425,0,0" VerticalAlignment="Top" Click="btnHistoricos_click" Height="25" Width="95"/>
+        <!--********************* datagrid historico ultimos 5**************************** -->
+        <DataGrid x:Name="dataGridHistorico" d:ItemsSource="{d:SampleData ItemCount=5}" Margin="84,187,58,82" HorizontalContentAlignment="Center" CanUserAddRows="False" CanUserDeleteRows="False" CanUserReorderColumns="False" CanUserResizeColumns="False" CanUserResizeRows="False" CanUserSortColumns="False" Grid.ColumnSpan="1" Grid.RowSpan="6" HorizontalGridLinesBrush="{x:Null}" VerticalGridLinesBrush="{x:Null}" ToolTip="Últimos 5 registros" EnableRowVirtualization="False" IsReadOnly="True">
+            <DataGrid.RowStyle>
+                <Style/>
+            </DataGrid.RowStyle>
+        </DataGrid>
+
+        <!--********************* lbl conexión**************************** -->
+        <Label Content="Conectado" Name="lbl_conectado" HorizontalContentAlignment="Center" HorizontalAlignment="Left" Height="30" Margin="670,43,0,0" VerticalAlignment="Top" Width="90" Background="#FF49D000" FontWeight="Bold" BorderBrush="#FF121111"/>
+        <Label Content="Desconectado" Name="lbl_desconectado" HorizontalContentAlignment="Center" HorizontalAlignment="Left" Height="30" Margin="670,43,0,0" VerticalAlignment="Top" Width="90" Background="#FFFF2F00" FontWeight="Bold" BorderBrush="#FF121111"/> 
+
+
+
+
+
+
+    </Grid>
+</Page>

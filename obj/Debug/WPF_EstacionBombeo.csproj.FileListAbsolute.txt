@@ -1,0 +1,87 @@
+C:\Users\Facundo\source\repos\WPF_EstacionBombeo\bin\Debug\WPF_EstacionBombeo.exe.config
+C:\Users\Facundo\source\repos\WPF_EstacionBombeo\bin\Debug\WPF_EstacionBombeo.exe
+C:\Users\Facundo\source\repos\WPF_EstacionBombeo\bin\Debug\WPF_EstacionBombeo.pdb
+C:\Users\Facundo\source\repos\WPF_EstacionBombeo\obj\Debug\WPF_EstacionBombeo.csproj.AssemblyReference.cache
+C:\Users\Facundo\source\repos\WPF_EstacionBombeo\obj\Debug\WPF_EstacionBombeo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Facundo\source\repos\WPF_EstacionBombeo\obj\Debug\MainWindow.g.cs
+C:\Users\Facundo\source\repos\WPF_EstacionBombeo\obj\Debug\Paginas\Inicio.g.cs
+C:\Users\Facundo\source\repos\WPF_EstacionBombeo\obj\Debug\App.g.cs
+C:\Users\Facundo\source\repos\WPF_EstacionBombeo\obj\Debug\WPF_EstacionBombeo_MarkupCompile.cache
+C:\Users\Facundo\source\repos\WPF_EstacionBombeo\obj\Debug\WPF_EstacionBombeo_MarkupCompile.lref
+C:\Users\Facundo\source\repos\WPF_EstacionBombeo\obj\Debug\MainWindow.baml
+C:\Users\Facundo\source\repos\WPF_EstacionBombeo\obj\Debug\Paginas\Inicio.baml
+C:\Users\Facundo\source\repos\WPF_EstacionBombeo\obj\Debug\WPF_EstacionBombeo.g.resources
+C:\Users\Facundo\source\repos\WPF_EstacionBombeo\obj\Debug\WPF_EstacionBombeo.Properties.Resources.resources
+C:\Users\Facundo\source\repos\WPF_EstacionBombeo\obj\Debug\WPF_EstacionBombeo.csproj.GenerateResource.cache
+C:\Users\Facundo\source\repos\WPF_EstacionBombeo\obj\Debug\WPF_EstacionBombeo.csproj.CoreCompileInputs.cache
+C:\Users\Facundo\source\repos\WPF_EstacionBombeo\obj\Debug\WPF_EstacionBombeo.exe
+C:\Users\Facundo\source\repos\WPF_EstacionBombeo\obj\Debug\WPF_EstacionBombeo.pdb
+C:\Users\Facundo\source\repos\WPF_EstacionBombeo\obj\Debug\Paginas\Alarmas.g.cs
+C:\Users\Facundo\source\repos\WPF_EstacionBombeo\obj\Debug\Paginas\Alarmas.baml
+C:\Users\Facundo\source\repos\WPF_EstacionBombeo\obj\Debug\Ventanas\TI_EBR101.g.cs
+C:\Users\Facundo\source\repos\WPF_EstacionBombeo\obj\Debug\Ventanas\TI_EBR101.baml
+C:\Users\RafaelRamirez\Downloads\bombeo\WPF_EstacionBombeo\bin\Debug\WPF_EstacionBombeo.exe.config
+C:\Users\RafaelRamirez\Downloads\bombeo\WPF_EstacionBombeo\bin\Debug\WPF_EstacionBombeo.exe
+C:\Users\RafaelRamirez\Downloads\bombeo\WPF_EstacionBombeo\bin\Debug\WPF_EstacionBombeo.pdb
+C:\Users\RafaelRamirez\Downloads\bombeo\WPF_EstacionBombeo\obj\Debug\WPF_EstacionBombeo.csproj.AssemblyReference.cache
+C:\Users\RafaelRamirez\Downloads\bombeo\WPF_EstacionBombeo\obj\Debug\WPF_EstacionBombeo.csproj.SuggestedBindingRedirects.cache
+C:\Users\RafaelRamirez\Downloads\bombeo\WPF_EstacionBombeo\obj\Debug\MainWindow.g.cs
+C:\Users\RafaelRamirez\Downloads\bombeo\WPF_EstacionBombeo\obj\Debug\Paginas\Alarmas.g.cs
+C:\Users\RafaelRamirez\Downloads\bombeo\WPF_EstacionBombeo\obj\Debug\Paginas\Inicio.g.cs
+C:\Users\RafaelRamirez\Downloads\bombeo\WPF_EstacionBombeo\obj\Debug\Ventanas\TI_EBR101.g.cs
+C:\Users\RafaelRamirez\Downloads\bombeo\WPF_EstacionBombeo\obj\Debug\App.g.cs
+C:\Users\RafaelRamirez\Downloads\bombeo\WPF_EstacionBombeo\obj\Debug\WPF_EstacionBombeo_MarkupCompile.cache
+C:\Users\RafaelRamirez\Downloads\bombeo\WPF_EstacionBombeo\obj\Debug\WPF_EstacionBombeo_MarkupCompile.lref
+C:\Users\RafaelRamirez\Downloads\bombeo\WPF_EstacionBombeo\obj\Debug\MainWindow.baml
+C:\Users\RafaelRamirez\Downloads\bombeo\WPF_EstacionBombeo\obj\Debug\Paginas\Alarmas.baml
+C:\Users\RafaelRamirez\Downloads\bombeo\WPF_EstacionBombeo\obj\Debug\Paginas\Inicio.baml
+C:\Users\RafaelRamirez\Downloads\bombeo\WPF_EstacionBombeo\obj\Debug\Ventanas\TI_EBR101.baml
+C:\Users\RafaelRamirez\Downloads\bombeo\WPF_EstacionBombeo\obj\Debug\WPF_EstacionBombeo.g.resources
+C:\Users\RafaelRamirez\Downloads\bombeo\WPF_EstacionBombeo\obj\Debug\WPF_EstacionBombeo.Properties.Resources.resources
+C:\Users\RafaelRamirez\Downloads\bombeo\WPF_EstacionBombeo\obj\Debug\WPF_EstacionBombeo.csproj.GenerateResource.cache
+C:\Users\RafaelRamirez\Downloads\bombeo\WPF_EstacionBombeo\obj\Debug\WPF_EstacionBombeo.csproj.CoreCompileInputs.cache
+C:\Users\RafaelRamirez\Downloads\bombeo\WPF_EstacionBombeo\obj\Debug\WPF_EstacionBombeo.exe
+C:\Users\RafaelRamirez\Downloads\bombeo\WPF_EstacionBombeo\obj\Debug\WPF_EstacionBombeo.pdb
+C:\Datos ANTERIORES\Documentos\1 UTN SAN NICOLAS\1ER AÑO\3 Programacion\Trabajo Integrador\Trabajo FINAL\wpf\WPF_EstacionBombeo_v7\bin\Debug\WPF_EstacionBombeo.exe.config
+C:\Datos ANTERIORES\Documentos\1 UTN SAN NICOLAS\1ER AÑO\3 Programacion\Trabajo Integrador\Trabajo FINAL\wpf\WPF_EstacionBombeo_v7\bin\Debug\WPF_EstacionBombeo.exe
+C:\Datos ANTERIORES\Documentos\1 UTN SAN NICOLAS\1ER AÑO\3 Programacion\Trabajo Integrador\Trabajo FINAL\wpf\WPF_EstacionBombeo_v7\bin\Debug\WPF_EstacionBombeo.pdb
+C:\Datos ANTERIORES\Documentos\1 UTN SAN NICOLAS\1ER AÑO\3 Programacion\Trabajo Integrador\Trabajo FINAL\wpf\WPF_EstacionBombeo_v7\obj\Debug\WPF_EstacionBombeo.csproj.AssemblyReference.cache
+C:\Datos ANTERIORES\Documentos\1 UTN SAN NICOLAS\1ER AÑO\3 Programacion\Trabajo Integrador\Trabajo FINAL\wpf\WPF_EstacionBombeo_v7\obj\Debug\WPF_EstacionBombeo.csproj.SuggestedBindingRedirects.cache
+C:\Datos ANTERIORES\Documentos\1 UTN SAN NICOLAS\1ER AÑO\3 Programacion\Trabajo Integrador\Trabajo FINAL\wpf\WPF_EstacionBombeo_v7\obj\Debug\MainWindow.g.cs
+C:\Datos ANTERIORES\Documentos\1 UTN SAN NICOLAS\1ER AÑO\3 Programacion\Trabajo Integrador\Trabajo FINAL\wpf\WPF_EstacionBombeo_v7\obj\Debug\Paginas\Alarmas.g.cs
+C:\Datos ANTERIORES\Documentos\1 UTN SAN NICOLAS\1ER AÑO\3 Programacion\Trabajo Integrador\Trabajo FINAL\wpf\WPF_EstacionBombeo_v7\obj\Debug\Paginas\Inicio.g.cs
+C:\Datos ANTERIORES\Documentos\1 UTN SAN NICOLAS\1ER AÑO\3 Programacion\Trabajo Integrador\Trabajo FINAL\wpf\WPF_EstacionBombeo_v7\obj\Debug\Ventanas\TI_EBR101.g.cs
+C:\Datos ANTERIORES\Documentos\1 UTN SAN NICOLAS\1ER AÑO\3 Programacion\Trabajo Integrador\Trabajo FINAL\wpf\WPF_EstacionBombeo_v7\obj\Debug\App.g.cs
+C:\Datos ANTERIORES\Documentos\1 UTN SAN NICOLAS\1ER AÑO\3 Programacion\Trabajo Integrador\Trabajo FINAL\wpf\WPF_EstacionBombeo_v7\obj\Debug\WPF_EstacionBombeo_MarkupCompile.cache
+C:\Datos ANTERIORES\Documentos\1 UTN SAN NICOLAS\1ER AÑO\3 Programacion\Trabajo Integrador\Trabajo FINAL\wpf\WPF_EstacionBombeo_v7\obj\Debug\WPF_EstacionBombeo_MarkupCompile.lref
+C:\Datos ANTERIORES\Documentos\1 UTN SAN NICOLAS\1ER AÑO\3 Programacion\Trabajo Integrador\Trabajo FINAL\wpf\WPF_EstacionBombeo_v7\obj\Debug\MainWindow.baml
+C:\Datos ANTERIORES\Documentos\1 UTN SAN NICOLAS\1ER AÑO\3 Programacion\Trabajo Integrador\Trabajo FINAL\wpf\WPF_EstacionBombeo_v7\obj\Debug\Paginas\Alarmas.baml
+C:\Datos ANTERIORES\Documentos\1 UTN SAN NICOLAS\1ER AÑO\3 Programacion\Trabajo Integrador\Trabajo FINAL\wpf\WPF_EstacionBombeo_v7\obj\Debug\Paginas\Inicio.baml
+C:\Datos ANTERIORES\Documentos\1 UTN SAN NICOLAS\1ER AÑO\3 Programacion\Trabajo Integrador\Trabajo FINAL\wpf\WPF_EstacionBombeo_v7\obj\Debug\Ventanas\TI_EBR101.baml
+C:\Datos ANTERIORES\Documentos\1 UTN SAN NICOLAS\1ER AÑO\3 Programacion\Trabajo Integrador\Trabajo FINAL\wpf\WPF_EstacionBombeo_v7\obj\Debug\WPF_EstacionBombeo.g.resources
+C:\Datos ANTERIORES\Documentos\1 UTN SAN NICOLAS\1ER AÑO\3 Programacion\Trabajo Integrador\Trabajo FINAL\wpf\WPF_EstacionBombeo_v7\obj\Debug\WPF_EstacionBombeo.Properties.Resources.resources
+C:\Datos ANTERIORES\Documentos\1 UTN SAN NICOLAS\1ER AÑO\3 Programacion\Trabajo Integrador\Trabajo FINAL\wpf\WPF_EstacionBombeo_v7\obj\Debug\WPF_EstacionBombeo.csproj.GenerateResource.cache
+C:\Datos ANTERIORES\Documentos\1 UTN SAN NICOLAS\1ER AÑO\3 Programacion\Trabajo Integrador\Trabajo FINAL\wpf\WPF_EstacionBombeo_v7\obj\Debug\WPF_EstacionBombeo.csproj.CoreCompileInputs.cache
+C:\Datos ANTERIORES\Documentos\1 UTN SAN NICOLAS\1ER AÑO\3 Programacion\Trabajo Integrador\Trabajo FINAL\wpf\WPF_EstacionBombeo_v7\obj\Debug\WPF_EstacionBombeo.exe
+C:\Datos ANTERIORES\Documentos\1 UTN SAN NICOLAS\1ER AÑO\3 Programacion\Trabajo Integrador\Trabajo FINAL\wpf\WPF_EstacionBombeo_v7\obj\Debug\WPF_EstacionBombeo.pdb
+C:\Users\MSI-Cyborg\Desktop\Estudios\1 UTN SAN NICOLAS\1ER AÑO\3 Programacion\Trabajo Integrador\Trabajo FINAL\wpf\WPF_EstacionBombeo_v7\bin\Debug\WPF_EstacionBombeo.exe.config
+C:\Users\MSI-Cyborg\Desktop\Estudios\1 UTN SAN NICOLAS\1ER AÑO\3 Programacion\Trabajo Integrador\Trabajo FINAL\wpf\WPF_EstacionBombeo_v7\bin\Debug\WPF_EstacionBombeo.exe
+C:\Users\MSI-Cyborg\Desktop\Estudios\1 UTN SAN NICOLAS\1ER AÑO\3 Programacion\Trabajo Integrador\Trabajo FINAL\wpf\WPF_EstacionBombeo_v7\bin\Debug\WPF_EstacionBombeo.pdb
+C:\Users\MSI-Cyborg\Desktop\Estudios\1 UTN SAN NICOLAS\1ER AÑO\3 Programacion\Trabajo Integrador\Trabajo FINAL\wpf\WPF_EstacionBombeo_v7\obj\Debug\WPF_EstacionBombeo.csproj.AssemblyReference.cache
+C:\Users\MSI-Cyborg\Desktop\Estudios\1 UTN SAN NICOLAS\1ER AÑO\3 Programacion\Trabajo Integrador\Trabajo FINAL\wpf\WPF_EstacionBombeo_v7\obj\Debug\MainWindow.g.cs
+C:\Users\MSI-Cyborg\Desktop\Estudios\1 UTN SAN NICOLAS\1ER AÑO\3 Programacion\Trabajo Integrador\Trabajo FINAL\wpf\WPF_EstacionBombeo_v7\obj\Debug\Paginas\Alarmas.g.cs
+C:\Users\MSI-Cyborg\Desktop\Estudios\1 UTN SAN NICOLAS\1ER AÑO\3 Programacion\Trabajo Integrador\Trabajo FINAL\wpf\WPF_EstacionBombeo_v7\obj\Debug\Paginas\Inicio.g.cs
+C:\Users\MSI-Cyborg\Desktop\Estudios\1 UTN SAN NICOLAS\1ER AÑO\3 Programacion\Trabajo Integrador\Trabajo FINAL\wpf\WPF_EstacionBombeo_v7\obj\Debug\Ventanas\TI_EBR101.g.cs
+C:\Users\MSI-Cyborg\Desktop\Estudios\1 UTN SAN NICOLAS\1ER AÑO\3 Programacion\Trabajo Integrador\Trabajo FINAL\wpf\WPF_EstacionBombeo_v7\obj\Debug\App.g.cs
+C:\Users\MSI-Cyborg\Desktop\Estudios\1 UTN SAN NICOLAS\1ER AÑO\3 Programacion\Trabajo Integrador\Trabajo FINAL\wpf\WPF_EstacionBombeo_v7\obj\Debug\WPF_EstacionBombeo_MarkupCompile.cache
+C:\Users\MSI-Cyborg\Desktop\Estudios\1 UTN SAN NICOLAS\1ER AÑO\3 Programacion\Trabajo Integrador\Trabajo FINAL\wpf\WPF_EstacionBombeo_v7\obj\Debug\WPF_EstacionBombeo_MarkupCompile.lref
+C:\Users\MSI-Cyborg\Desktop\Estudios\1 UTN SAN NICOLAS\1ER AÑO\3 Programacion\Trabajo Integrador\Trabajo FINAL\wpf\WPF_EstacionBombeo_v7\obj\Debug\MainWindow.baml
+C:\Users\MSI-Cyborg\Desktop\Estudios\1 UTN SAN NICOLAS\1ER AÑO\3 Programacion\Trabajo Integrador\Trabajo FINAL\wpf\WPF_EstacionBombeo_v7\obj\Debug\Paginas\Alarmas.baml
+C:\Users\MSI-Cyborg\Desktop\Estudios\1 UTN SAN NICOLAS\1ER AÑO\3 Programacion\Trabajo Integrador\Trabajo FINAL\wpf\WPF_EstacionBombeo_v7\obj\Debug\Paginas\Inicio.baml
+C:\Users\MSI-Cyborg\Desktop\Estudios\1 UTN SAN NICOLAS\1ER AÑO\3 Programacion\Trabajo Integrador\Trabajo FINAL\wpf\WPF_EstacionBombeo_v7\obj\Debug\Ventanas\TI_EBR101.baml
+C:\Users\MSI-Cyborg\Desktop\Estudios\1 UTN SAN NICOLAS\1ER AÑO\3 Programacion\Trabajo Integrador\Trabajo FINAL\wpf\WPF_EstacionBombeo_v7\obj\Debug\WPF_EstacionBombeo.g.resources
+C:\Users\MSI-Cyborg\Desktop\Estudios\1 UTN SAN NICOLAS\1ER AÑO\3 Programacion\Trabajo Integrador\Trabajo FINAL\wpf\WPF_EstacionBombeo_v7\obj\Debug\WPF_EstacionBombeo.Properties.Resources.resources
+C:\Users\MSI-Cyborg\Desktop\Estudios\1 UTN SAN NICOLAS\1ER AÑO\3 Programacion\Trabajo Integrador\Trabajo FINAL\wpf\WPF_EstacionBombeo_v7\obj\Debug\WPF_EstacionBombeo.csproj.GenerateResource.cache
+C:\Users\MSI-Cyborg\Desktop\Estudios\1 UTN SAN NICOLAS\1ER AÑO\3 Programacion\Trabajo Integrador\Trabajo FINAL\wpf\WPF_EstacionBombeo_v7\obj\Debug\WPF_EstacionBombeo.csproj.CoreCompileInputs.cache
+C:\Users\MSI-Cyborg\Desktop\Estudios\1 UTN SAN NICOLAS\1ER AÑO\3 Programacion\Trabajo Integrador\Trabajo FINAL\wpf\WPF_EstacionBombeo_v7\obj\Debug\WPF_EstacionBombeo.exe
+C:\Users\MSI-Cyborg\Desktop\Estudios\1 UTN SAN NICOLAS\1ER AÑO\3 Programacion\Trabajo Integrador\Trabajo FINAL\wpf\WPF_EstacionBombeo_v7\obj\Debug\WPF_EstacionBombeo.pdb
