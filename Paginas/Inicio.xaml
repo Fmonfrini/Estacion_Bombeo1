@@ -5,7 +5,6 @@
       xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
       xmlns:local="clr-namespace:WPF_EstacionBombeo.Paginas"
       mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="650"
-      
       Title="Inicio" Loaded="Page_Loaded" Height="442" Unloaded="Page_Unloaded_1">
 
     <Grid Background="#FFB7B7B7" Margin="0,-47,0,0">
@@ -140,12 +139,7 @@
 
         <!--********************* lbl conexión**************************** -->
         <Label Content="Conectado" Name="lbl_conectado" HorizontalContentAlignment="Center" HorizontalAlignment="Left" Height="30" Margin="670,43,0,0" VerticalAlignment="Top" Width="90" Background="#FF49D000" FontWeight="Bold" BorderBrush="#FF121111"/>
-        <Label Content="Desconectado" Name="lbl_desconectado" HorizontalContentAlignment="Center" HorizontalAlignment="Left" Height="30" Margin="670,43,0,0" VerticalAlignment="Top" Width="90" Background="#FFFF2F00" FontWeight="Bold" BorderBrush="#FF121111"/> 
-
-
-
-
-
+        <Label Content="Desconectado" Name="lbl_desconectado" HorizontalContentAlignment="Center" HorizontalAlignment="Left" Height="30" Margin="670,43,0,0" VerticalAlignment="Top" Width="90" Background="#FFFF2F00" FontWeight="Bold" BorderBrush="#FF121111"/>
 
     </Grid>
 </Page>
